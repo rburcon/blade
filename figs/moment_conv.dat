@@ -1,0 +1,13 @@
+# Moment        
+# CofR          : (0.00000000e+00 0.00000000e+00 0.00000000e+00)
+#
+# Time          	(total_x         total_y         total_z)	         (pressure_x      pressure_y     pressure_z)	   (viscous_x       viscous_y        viscous_z)
+
+450             	(2.46440608e-08 -5.68936215e-08 -2.18070169e-05)	(3.23534010e-08 -5.23238715e-08 2.73301881e-06)	(-7.70934012e-09 -4.56975005e-09 -2.45400357e-05)
+
+
+potência = velocidade_angular*torque
+velocidade_angular = 100 rad/s ou 954.92965964254 RPM
+torque = 2.18070169e-05
+potência = 2.18070169e-05*100
+potência = 0.0218070W
